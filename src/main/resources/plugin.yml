@@ -1,0 +1,6 @@
+name: The_dope_plugin
+version: '${version}'
+main: com.lukcoding.the_dope_plugin.The_dope_plugin
+api-version: 1.18
+authors: [ LukCoding ]
+description: I have no fudging idea what this is going to be about
