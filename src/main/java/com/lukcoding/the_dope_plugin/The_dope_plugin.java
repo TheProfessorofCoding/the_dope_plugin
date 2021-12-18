@@ -1,5 +1,6 @@
 package com.lukcoding.the_dope_plugin;
 
+import com.lukcoding.the_dope_plugin.guis.gui1;
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
 
