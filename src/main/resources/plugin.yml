@@ -3,4 +3,9 @@ version: '${version}'
 main: com.lukcoding.the_dope_plugin.The_dope_plugin
 api-version: 1.18
 authors: [ LukCoding ]
-description: I have no fudging idea what this is going to be about
+description: Amazing plugin I use in my server
+commands:
+  kit:
+    description: Give a person a start to building
+    usage: /kit
+ 
