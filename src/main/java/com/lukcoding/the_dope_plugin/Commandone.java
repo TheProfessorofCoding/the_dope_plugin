@@ -7,7 +7,6 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
-
 public class Commandone implements CommandExecutor{
 
     ItemStack startone = new ItemStack(Material.LIGHT_GRAY_CONCRETE_POWDER, 50);
