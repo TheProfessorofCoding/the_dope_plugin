@@ -19,7 +19,7 @@ public class gui1 implements Listener{
 
 
     public gui1() {
-        i = Bukkit.createInventory(null, 20, "S E R V E R  M A R K E T P L A C E");
+        i = Bukkit.createInventory(null, 20, "S E R V E R   M A R K E T P L A C E");
         
         initailizeItems();
     }
